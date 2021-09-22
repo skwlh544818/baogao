@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "86c5821fa6effb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbe1af01b4e70f79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "小数据处理.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a471da39f86ae7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2dab4d0dd76f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e087ef5ac4feb4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "830a4f67ab586007",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "409b48af8e4e5df7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "874617e111c9a8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d80149824c99ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6728227ea36635c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "小数据处理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d79b3f1f44cf3d79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "小数据处理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03d3630dd7849684",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff1e693695e63c12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cbe1af01b4e70f79",
+  "lastOpenFiles": [
+    "小数据处理.md",
+    "未命名.md"
+  ]
+}
